@@ -2,8 +2,8 @@
 
 In this Quiz App questions and options are in Nepali language , It may help for people who is preparing for  Loksewa and related exams.
 
-websafe_svg: link <br>
-GetX: link
+websafe_svg  <br>
+GetX
 
 ## ScreenShots:
 <pre>
