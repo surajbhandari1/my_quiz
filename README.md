@@ -2,8 +2,9 @@
 
 In this Quiz App questions and options are in Nepali language , It may help for people who is preparing for  Loksewa and related exams.
 
-websafe_svg  <br>
-GetX
+## Packages:
+A Flutter compatible library to handle SVGs for Android, iOS, and Web : <b> websafe_svg </b>  <br>
+Statemanagement : <b> GetX</b>
 
 ## ScreenShots:
 <pre>
